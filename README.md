@@ -1,4 +1,4 @@
-#<html>
+<html>
 <head>
 <title>gunjanBday</title>
 <meta expr:content='data:blog.isMobile ? "width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0" : "width=1100"' name='viewport'/>
